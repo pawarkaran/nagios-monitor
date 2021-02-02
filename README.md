@@ -1,4 +1,4 @@
-# Refer nodejs-moniter for main functioning
+# Refer nodejs-moniter for server api functioning
 
 # Support System Using Nagios
 Provides notifictions when services are down.
